@@ -16,9 +16,9 @@
    viewBox="0 0 65 65"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="brski.svg"
-   inkscape:export-filename="/corp/ietf2/iot-dir/slides/icons/brski.png"
+   inkscape:export-filename="/corp/ietf/work/iotdir/slides/icons/brski.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
   <defs
@@ -83,15 +83,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="74.087929"
+     inkscape:cx="-17.078338"
      inkscape:cy="172.8872"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4699"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1057"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      showborder="false"
      inkscape:pagecheckerboard="false"
@@ -105,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -660,13 +660,13 @@
            sodipodi:role="line">RFC8366</tspan></text>
       <text
          id="text3746"
-         y="111.24297"
-         x="90.698029"
+         y="109.37745"
+         x="91.09893"
          style="font-style:normal;font-weight:normal;font-size:3.69264555px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e8b213;fill-opacity:1;stroke:none;stroke-width:0.09231614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="fill:#e8b213;fill-opacity:1;stroke-width:0.09231614px"
-           y="111.24297"
-           x="90.698029"
+           y="109.37745"
+           x="91.09893"
            id="tspan3744"
            sodipodi:role="line">BRSKI</tspan></text>
       <image
@@ -677,6 +677,17 @@
          id="image3834"
          x="78.223091"
          y="133.98297" />
+      <text
+         id="text3746-5-3"
+         y="112.26849"
+         x="89.418427"
+         style="font-style:normal;font-weight:normal;font-size:3.23133731px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e8b213;fill-opacity:1;stroke:none;stroke-width:0.08078343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#e8b213;fill-opacity:1;stroke-width:0.08078343px"
+           y="112.26849"
+           x="89.418427"
+           id="tspan3744-6-6"
+           sodipodi:role="line">RFC8995</tspan></text>
     </g>
   </g>
 </svg>
