@@ -16,7 +16,7 @@
    viewBox="0 0 65 65"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="brski.svg"
    inkscape:export-filename="/corp/ietf/work/iotdir/slides/icons/brski.png"
    inkscape:export-xdpi="100"
@@ -83,15 +83,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="-17.078338"
+     inkscape:cx="-100.921"
      inkscape:cy="172.8872"
      inkscape:document-units="mm"
      inkscape:current-layer="g4699"
      showgrid="false"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:window-x="70"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showborder="false"
      inkscape:pagecheckerboard="false"
@@ -105,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -660,13 +660,14 @@
            sodipodi:role="line">RFC8366</tspan></text>
       <text
          id="text3746"
-         y="109.37745"
-         x="91.09893"
-         style="font-style:normal;font-weight:normal;font-size:3.69264555px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e8b213;fill-opacity:1;stroke:none;stroke-width:0.09231614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="fill:#e8b213;fill-opacity:1;stroke-width:0.09231614px"
-           y="109.37745"
-           x="91.09893"
+         y="110.45643"
+         x="100.53219"
+         style="font-style:normal;font-weight:normal;font-size:5.28022099px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e8b213;fill-opacity:1;stroke:none;stroke-width:0.13200553px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.93684511,1.0674123)"><tspan
+           style="fill:#e8b213;fill-opacity:1;stroke-width:0.13200553px"
+           y="110.45643"
+           x="100.53219"
            id="tspan3744"
            sodipodi:role="line">BRSKI</tspan></text>
       <image
