@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.80622194"
-     inkscape:cx="195.35564"
-     inkscape:cy="571.18267"
+     inkscape:zoom="2.28034"
+     inkscape:cx="197.55826"
+     inkscape:cy="426.47149"
      inkscape:window-width="1854"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -159,18 +159,19 @@
          sodipodi:cy="56.855782"
          sodipodi:rx="10.628112"
          sodipodi:ry="10.628112"
-         sodipodi:start="3.0543262"
-         sodipodi:end="5.4105207"
+         sodipodi:start="3.1415927"
+         sodipodi:end="5.4977871"
          sodipodi:arc-type="arc"
-         d="m 129.06976,57.782082 a 10.628112,10.628112 0 0 1 5.68015,-10.353551 10.628112,10.628112 0 0 1 11.73913,1.285645"
+         d="m 129.02931,56.855782 a 10.628112,10.628112 0 0 1 6.56091,-9.819095 10.628112,10.628112 0 0 1 11.58241,2.303884"
          sodipodi:open="true" />
     </g>
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.97097;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.836398;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="path4926-7"
-       cx="51.769253"
-       cy="96.134384"
-       r="6.7916069" />
+       cx="51.791897"
+       cy="95.934959"
+       rx="5.9324627"
+       ry="5.7693176" />
     <g
        inkscape:label="Rendered Gears"
        transform="matrix(1.2506931,0,0,1.2506931,51.854975,95.765033)"
